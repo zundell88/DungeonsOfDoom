@@ -110,7 +110,7 @@ namespace DungeonsOfDoom.Core
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Write($"       Position: {player.X}.{player.Y}");
             Console.WriteLine($"                         Enemies killed: { Enemy.KilledEnemyCount}");
-            Console.WriteLine($"                     Items: [L: {player.LeftHandItems.Count}/1] [R: {player.RightHandItems.Count}/1]" + Environment.NewLine);            
+            Console.WriteLine($"                     Items: [L: {player.LeftHandItems.Count}/1] [R: {player.RightHandItems.Count}/1]\n");            
             if (lastStatusEnemy == null && lastStatusItem == null)
             {
                 Console.WriteLine();
@@ -232,7 +232,7 @@ namespace DungeonsOfDoom.Core
             CenterText.WriteCenterLine("WELCOME TO DUNGEONS OF DOOM!");
             CenterText.WriteCenterLine("This is a dungeon crawl -based game where you take the role of a monster.");
             CenterText.WriteCenterLine("Your goal is to kill all living creatures that come in your way.");
-            CenterText.WriteCenterLine("To help, you will find weapons and health throughout the gamefield." + Environment.NewLine);
+            CenterText.WriteCenterLine("To help, you will find weapons and health throughout the gamefield.\n");
         }
         public void LevelComplete()
         {

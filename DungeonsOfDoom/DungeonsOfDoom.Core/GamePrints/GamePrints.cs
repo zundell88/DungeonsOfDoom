@@ -22,15 +22,15 @@ namespace DungeonsOfDoom.Core
         {
             Console.ForegroundColor = ConsoleColor.Red;
             var gameOvertxt = File.ReadAllText(@"GameText/GameOver/GameOvertext.txt");
-            Console.WriteLine(gameOvertxt + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine(gameOvertxt+ "\n\n\n\n\n\n\n\n\n\n");
             Console.ResetColor();
         }
         public static void PrintLevelComplete()
         {
-            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine("\n\n\n\n");
             Console.ForegroundColor = ConsoleColor.Red;
             var levelComplete = File.ReadAllText(@"GameText/LevelComplete/CompleteText.txt");
-            Console.WriteLine(levelComplete + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine($"{levelComplete}\n\n\n\n\n\n\n\n\n\n");
             Console.ResetColor();
         }
         public static void PrintGameStory()

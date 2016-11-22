@@ -29,7 +29,7 @@ namespace DungeonsOfDoom.Core
                 if (char.IsDigit(c))
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    throw new ArgumentException(Environment.NewLine + "Name cannot contain numbers!");            
+                    throw new ArgumentException("\nName cannot contain numbers!");            
                 }
                 else
                 {
