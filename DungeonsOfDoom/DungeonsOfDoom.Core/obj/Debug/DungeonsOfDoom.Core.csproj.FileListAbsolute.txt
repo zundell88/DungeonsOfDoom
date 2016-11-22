@@ -46,3 +46,4 @@ D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom.Core\bin\Debu
 D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom.Core\obj\Debug\DungeonsOfDoom.Core.csprojResolveAssemblyReference.cache
 D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom.Core\obj\Debug\DungeonsOfDoom.Core.dll
 D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom.Core\obj\Debug\DungeonsOfDoom.Core.pdb
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom.Core\bin\Debug\GameText\GameInfo\GameInfo.txt

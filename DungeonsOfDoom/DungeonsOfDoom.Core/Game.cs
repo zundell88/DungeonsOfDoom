@@ -199,9 +199,10 @@ namespace DungeonsOfDoom.Core
                 lastStatusItem = null;
             if (keyPress == ConsoleKey.Escape)
                 SGP.QuitGame();
-            
             if (keyPress == ConsoleKey.I)
                 SGP.CheckInventory(player);
+            if(keyPress == ConsoleKey.Q)
+                SGP.DisplayFaq();
             
             if (keyPress == ConsoleKey.D1)
             {

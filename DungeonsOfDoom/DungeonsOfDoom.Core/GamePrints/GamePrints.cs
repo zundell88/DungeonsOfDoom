@@ -8,7 +8,7 @@ using Utils;
 
 namespace DungeonsOfDoom.Core
 {
-   sealed class GameBanner
+   sealed class GamePrints
     {
 
         public static void PrintBanner()
@@ -39,13 +39,19 @@ namespace DungeonsOfDoom.Core
             StringFunctions.MarqueeFast(story);
             Console.ReadLine();
         }
+
+       public static void PrintFaq()
+       {
+            string faq = File.ReadAllText(@"GameText\GameInfo\GameInfo.txt");
+            Console.WriteLine($"   {faq}");
+       }
         public static void PrintInventory(Player player)
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("");
             var handText = File.ReadAllText(@"GameEntities/Player/Backpack/handText.txt");
             Console.WriteLine(handText);
-            Console.WriteLine(Environment.NewLine + Environment.NewLine);
+            Console.WriteLine($"\n\n");
             Console.ResetColor();
             if (player.LeftHandItems.Count > 0)
                 Console.Write($"                 Left|hand:[{player.LeftHandItems[0].Name}]");
@@ -55,8 +61,9 @@ namespace DungeonsOfDoom.Core
                 Console.WriteLine($"         Right|hand:[{player.RightHandItems[0].Name}]");
             else
                 Console.Write("             Righ|hand: Is empty");
-            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
+            Console.WriteLine($"\n\n\n");
             CenterText.WriteCenterLine("Press any key to return...");
         }
+
     }
 }

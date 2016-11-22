@@ -15,7 +15,7 @@ namespace DungeonsOfDoom.Core
             
             Console.Clear();
             Console.BackgroundColor = ConsoleColor.Black;   
-            GameBanner.PrintBanner();
+            GamePrints.PrintBanner();
             if (player.Health < 90)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -113,10 +113,9 @@ namespace DungeonsOfDoom.Core
                 Console.ResetColor();
             }
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine();
-            CenterText.WriteCenterLine("Use [" + (char)27 + " " + (char)26 + " " + (char)24 + " " + (char)25 + "] to move, [SPACE] to pick up and [I] to check inventories.");
+            CenterText.WriteCenterLine("Use [" + (char)27 + " " + (char)26 + " " + (char)24 + " " + (char)25 + "] to move, [SPACE] to pick up, [I] to check inventories, [Q] for FAQ.");
             Console.ResetColor();
-            CenterText.WriteCenterLine(@"|  \________________________________________________________");
+            CenterText.WriteCenterLine(@"___________________________________________________________");
         }
         public void DisplayWorld(Player player, Room[,] rooms)
         {
@@ -188,7 +187,7 @@ namespace DungeonsOfDoom.Core
         }
         public void StartMeny()
         {
-            GameBanner.PrintBanner();
+            GamePrints.PrintBanner();
             Console.WriteLine();
             CenterText.WriteCenterLine("WELCOME TO DUNGEONS OF DOOM!");
             CenterText.WriteCenterLine("This is a dungeon crawl -based game where you take the role of a monster.");
@@ -200,7 +199,7 @@ namespace DungeonsOfDoom.Core
             Console.ResetColor();
             Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.ForegroundColor = ConsoleColor.Red;
-            GameBanner.PrintLevelComplete();
+            GamePrints.PrintLevelComplete();
             CenterText.WriteCenter("Press a key to continue");
             Console.Read();
             Console.Clear();
@@ -210,19 +209,27 @@ namespace DungeonsOfDoom.Core
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
-            GameBanner.PrintGameOver();
+            GamePrints.PrintGameOver();
             Console.ResetColor();            
         }
         public void ShowStory()
         {
             Console.Clear();
-            GameBanner.PrintGameStory();            
+            GamePrints.PrintGameStory();            
             Console.Clear();
         }
         public void CheckInventory(Player player)
         {
             Console.Clear();
-            GameBanner.PrintInventory(player);           
+            GamePrints.PrintInventory(player);           
+            Console.ReadKey();
+            Console.Clear();
+        }
+
+        public void DisplayFaq()
+        {
+            Console.Clear();
+            GamePrints.PrintFaq();
             Console.ReadKey();
             Console.Clear();
         }

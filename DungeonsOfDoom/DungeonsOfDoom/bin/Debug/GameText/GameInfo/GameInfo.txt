@@ -1,0 +1,36 @@
+﻿
+                                         _____ _    ___
+                                        |  ___/ \  / _ \ 
+                                        | |_ / _ \| | | |
+                                        |  _/ ___ \ |_| |
+                                        |_|/_/   \_\__\_\
+                            
+
+
+
+                                 WHAT ARE THE SYMBOLS ON THE MAP?
+                                        - Blue = Weapon
+                                        - Green = Health
+                                        - Gold = Enemy
+                                        - Cyan = Enemy Boss
+                            
+							    
+                                     HOW DO I KILL AN ENEMY?
+                       - Step into a square where an enemy stands to hit it, 
+                             but watch out the enemy will hit you back.
+  
+
+
+                            WHY DO I LOOSE HEALTH FOREACH STEP I TAKE?
+                        - A monster needs to eat to stay alive, what else?
+
+
+
+                                  WHY DID MY WEAPON DISAPPEAR?
+                     - The monster gets tired of them after a short amount of
+                                   time and throws them away.
+
+
+
+
+                                 Press any key to return to game...
