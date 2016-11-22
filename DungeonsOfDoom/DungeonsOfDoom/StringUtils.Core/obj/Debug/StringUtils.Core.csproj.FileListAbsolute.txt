@@ -1,0 +1,4 @@
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\StringUtils.Core.dll
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\StringUtils.Core.pdb
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\StringUtils.Core.dll
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\StringUtils.Core.pdb

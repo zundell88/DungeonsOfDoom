@@ -1,0 +1,15 @@
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\Utils.dll
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\Utils.pdb
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.dll
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.pdb
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\Utils.dll
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\Utils.pdb
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.dll
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.pdb
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\Utils.dll
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\bin\Debug\Utils.pdb
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.dll
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\StringUtils.Core\obj\Debug\Utils.pdb

@@ -1,0 +1,57 @@
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe.config
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.pdb
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.csprojResolveAssemblyReference.cache
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.exe
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.pdb
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameEntities\Player\Backpack\handText.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\GameOver\GameOvertext.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\PotionName.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\DogName.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\HumanName.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameStory.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameInfoText.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameLogo.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\LevelComplete\CompleteText.txt
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.Core.dll
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.Core.pdb
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\Utils.dll
+C:\SU15Projekt\OOP1\P&C DoD\Christofers\DOD\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\Utils.pdb
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe.config
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.exe
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.pdb
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameEntities\Player\Backpack\handText.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\GameOver\GameOvertext.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\LevelComplete\CompleteText.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\DogName.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\HumanName.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\PotionName.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameInfoText.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameLogo.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameStory.txt
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.pdb
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.Core.dll
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\Utils.dll
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.Core.pdb
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\Utils.pdb
+C:\Users\coffa\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameEntities\Player\Backpack\handText.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\GameOver\GameOvertext.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\LevelComplete\CompleteText.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\DogName.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\HumanName.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\Name\PotionName.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameInfoText.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameLogo.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\GameText\StartText\GameStory.txt
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe.config
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.exe
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.pdb
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.Core.dll
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\Utils.dll
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\DungeonsOfDoom.Core.pdb
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\Utils.pdb
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.exe
+D:\OneDrive\Project\Dungeons of Doom\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\DungeonsOfDoom.pdb

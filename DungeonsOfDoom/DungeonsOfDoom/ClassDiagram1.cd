@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DungeonsOfDoom.Game" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEgQCBAAAAABAIAAAAABgAAIACBAAIAACAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.GameBanner" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GameBanner\GameBanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Creature" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAIAAAAAAAAAAQAAABAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>GameEntities\Creatures\Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Enemy" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAIAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEntities\Creatures\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Human" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEntities\Creatures\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Dog" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEntities\Creatures\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Boss" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAGAAAAAAAAAAAAAABgAAAAYBA=</HashCode>
+      <FileName>GameEntities\Creatures\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Item" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAACAAAAAAAAAAQAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEntities\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Potion" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEntities\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Weapon" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEntities\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Player" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAGAAIAAAAAAAAAAABiAAAAYAA=</HashCode>
+      <FileName>GameEntities\Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Program" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.Room" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.CenterText" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\CenterText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.RandomUtils" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Utils\RandomUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DungeonsOfDoom.StringUtils" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Utils\StringUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

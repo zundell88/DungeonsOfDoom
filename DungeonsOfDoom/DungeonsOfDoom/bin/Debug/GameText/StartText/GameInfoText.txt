@@ -1,0 +1,8 @@
+﻿                           
+                                 
+                                 
+                                  WELCOME TO DUNGEONS OF DOOM!
+            This is a dungeon crawl -based game where you take the role of a monster.
+            Your goal is to kill all living creatures that come in your way.
+            To your help, you will find weapons and health throughout the gamefield.
+
